@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# whatever
+
 PIDFILE=/var/run/my_process.pid
 start() {
     ./manage_my_process &

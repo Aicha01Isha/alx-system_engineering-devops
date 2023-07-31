@@ -1,4 +1,6 @@
 #!/usr/bin/env bash
+# whatever
+
 while :
 do
 	echo 'I am alive' >> /tmp/my_process
